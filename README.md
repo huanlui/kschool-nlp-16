@@ -40,6 +40,7 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) held at
 ## Books and Further Readings
 
 - Dan Jurafsky and James H. Martin. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+(quizás la mejor introduccion an NLP)
 
 - Chris Manning and Hinrich Schütze, [Foundations of Statistical Natural Language Processing](http://www-nlp.stanford.edu/fsnlp/)
 
